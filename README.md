@@ -9,6 +9,17 @@
 </div>
 
 ---
+### :bowtie: About Me:
+
+- 🔭 I’m currently working on Deep learning and TinyML
+- 🌱 I’m currently learning Rust Programming
+- 👯 I’m looking to collaborate on bare metal programming and machine learning 
+- 🤔 I’m looking for help with starting a company
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: I haven't consistently used coffee :anguished:
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
