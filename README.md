@@ -1,4 +1,8 @@
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l3V0hk0xCsJxU98ze/giphy.gif" width="100"/>
+</div>
+
 <div id="badges" align="center">
     <img src="https://img.shields.io/twitter/follow/johnachanya2?style=social" alt="Twitter Badge"/>
     <img src="https://img.shields.io/github/followers/jachanya?style=social" alt ="Github Batch" />
@@ -9,7 +13,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-plain-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" title="embeddedc" alt="embeddedc" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
@@ -28,6 +32,8 @@
 </div>
 
 ---
+
+### :fire: My Stats :
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jachanya)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jachanya&layout=compact&theme=vision-friendly-dark)](https://github.com/jachanya/github-readme-stats)
