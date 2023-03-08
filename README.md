@@ -4,15 +4,15 @@
 </div>
 
 <div id="badges" align="center">
-    <img src="https://img.shields.io/twitter/follow/johnachanya2?style=social" alt="Twitter Badge"/>
-    <img src="https://img.shields.io/github/followers/jachanya?style=social" alt ="Github Batch" />
+    <img src="https://img.shields.io/twitter/follow/johnachanya2?&style=flat-square" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/github/followers/jachanya?&style=flat-square" alt ="Github Batch" />
 </div>
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original.svg" title="embeddedc" alt="embeddedc" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
