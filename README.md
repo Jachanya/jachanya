@@ -17,8 +17,7 @@
 - 🌱 I’m currently learning Rust Programming
 - 👯 I’m looking to collaborate on bare metal programming and machine learning 
 - 🤔 I’m looking for help with starting a company
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about anything
 - ⚡ Fun fact: I haven't consistently used coffee :anguished:
 
 ---
