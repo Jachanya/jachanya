@@ -10,7 +10,7 @@
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jachanya)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/jachanya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jachanya&layout=compact&theme=vision-friendly-dark)](https://github.com/jachanya/github-readme-stats)
 <!--
 **Jachanya/jachanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
