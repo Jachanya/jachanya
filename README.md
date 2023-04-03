@@ -14,8 +14,8 @@
 ### :bowtie: About Me:
 
 - 🔭 I’m currently working on Deep learning and TinyML
-- 🌱 I’m currently learning Rust Programming
-- 👯 I’m looking to collaborate on bare metal programming, machine learning or anything rust related
+- 🌱 I’m currently a systems programmer
+- 👯 I’m looking to collaborate on bare metal programming, machine learning or anything rust/c++ related
 - 🤔 I’m looking for help with starting a company
 - 💬 Ask me about anything
 - ⚡ Fun fact: I haven't consistently used coffee :anguished:
